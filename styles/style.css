@@ -18,6 +18,8 @@ body {
   /* пока не верстаем под мобильные устройства */
   min-width: 800px;
   display: flex;
+  width: 1600px;
+  height: 900px;
 }
 
 h1,
