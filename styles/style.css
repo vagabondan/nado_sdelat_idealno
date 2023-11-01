@@ -13,13 +13,11 @@ body {
   margin: 0px;
   background-color: #1e1e1e;
   font-family: Raleway, sans-serif;
-  /* height: inherit; */
   position: relative;
   /* пока не верстаем под мобильные устройства */
   min-width: 800px;
   display: flex;
-  width: 1600px;
-  height: 900px;
+  height: inherit;
 }
 
 h1,
